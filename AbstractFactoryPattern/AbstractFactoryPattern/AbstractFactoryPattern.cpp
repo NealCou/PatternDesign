@@ -1,5 +1,5 @@
 #include <iostream>
-//change 
+//change master
 using namespace std;
 
 // Product
